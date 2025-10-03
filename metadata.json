@@ -1,0 +1,5 @@
+{
+  "name": "Multilingual Creative Assistant",
+  "description": "An application that showcases multilingual content generation using the Gemini API. Users can enter prompts in English, Hindi, Bengali, or Tamil and receive creative content in the same language, inspired by tools that support regional languages in India.",
+  "requestFramePermissions": []
+}
